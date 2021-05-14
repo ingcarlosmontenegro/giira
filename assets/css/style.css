@@ -1612,4 +1612,7 @@ section {
 .counts .count-box a:hover {
   color: #6e9fb4;
 }
+.celdaEncabezado{
+  text-align: center;
+}
 
