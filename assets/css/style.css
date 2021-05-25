@@ -1615,4 +1615,6 @@ section {
 .celdaEncabezado{
   text-align: center;
 }
-
+.txt-lg{
+  margin: 0 3em;
+}
