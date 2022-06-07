@@ -367,7 +367,7 @@ width: 290px;
 #hero {
   width: 100%;
   height: calc(100vh - 72px);
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/fav.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 72px;
